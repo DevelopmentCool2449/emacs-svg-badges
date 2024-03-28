@@ -1,0 +1,8 @@
+* Emacs SVG Badges
+This is a collection of emacs badges made by me, inspired by
+[[https://www.lisperati.com/logo.html][Common Lisp logos]] and others, also this include some in dark themes.
+
+You can freely use them as you want,
+attribution is not required :-).
+
+These badges are licenced by GNU GENERAL PUBLIC LICENSE 3.
