@@ -5,11 +5,20 @@ This is a collection of emacs badges made by me, inspired by
 You can freely use them as you want,
 attribution is not required :-).
 
-<<<<<<< HEAD
-These badges are licenced by GNU GENERAL PUBLIC LICENSE 3.
-=======
-THIS IS ONLY AN ARCHIVE PRESERVATION, PLEASE DON'T MAKE
-PULL RESQUEST
+| badges                                                                                           |
+|--------------------------------------------------------------------------------------------------|
+| [[./elisp_logo_warning.svg]] [[./built_emacs_logo_warning.svg]] [[./emacs_free_software.svg]]                |
+|--------------------------------------------------------------------------------------------------|
+| dark themed badges                                                                               |
+|--------------------------------------------------------------------------------------------------|
+| [[./elisp_logo_warning_dark.svg]] [[./built_emacs_logo_warning_dark.svg]] [[./emacs_free_software_dark.svg]] |
+|--------------------------------------------------------------------------------------------------|
+| Powered by badges                                                                                |
+|--------------------------------------------------------------------------------------------------|
+| [[./powered_by_emacs.svg]] [[./powered_by_spacemacs.svg]] [[./powered_by_doomemacs.svg]]                     |
 
+PLEASE DON'T MAKE PULL RESQUEST.
 THESE BADGES ARE LICENCED BY GNU GENERAL PUBLIC LICENSE 3.
->>>>>>> 355f225 (initial commit)
+
+
+

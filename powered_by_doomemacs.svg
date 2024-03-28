@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.764206mm"
+   height="94.538139mm"
+   viewBox="0 0 63.764206 94.538139"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   sodipodi:docname="powered_by_emacs.svg"
+   inkscape:export-filename="powered_by_spacemacs.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" /><defs
+     id="defs1"><rect
+       x="-622.20563"
+       y="-250.35492"
+       width="1789.3013"
+       height="1218.6394"
+       id="rect9" /><rect
+       x="272.34009"
+       y="544.68018"
+       width="239.11951"
+       height="69.453239"
+       id="rect2" /><rect
+       x="515.21393"
+       y="591.28583"
+       width="82.189529"
+       height="20.746872"
+       id="rect1" /><rect
+       x="272.34009"
+       y="544.68018"
+       width="87.329987"
+       height="33.257683"
+       id="rect2-7" /></defs><g
+     id="layer1"
+     transform="translate(-65.512506,-72.151816)"><path
+       style="fill:#282c34;fill-opacity:1;fill-rule:evenodd;stroke-width:0.531971;paint-order:fill markers stroke"
+       d="m 365.58567,276.30284 c -17.2112,-0.008 -95.94986,1.73989 -114.86315,18.8268 -3.34418,60.07997 0.35292,154.64109 -0.4201,231.38058 -1.58691,9.27765 236.05212,11.7724 235.6201,-0.21423 -1.2771,-42.13618 -0.82388,-208.17082 -2.86061,-231.90756 -34.2709,-19.37121 -77.33199,-17.96847 -117.47624,-18.08559 z"
+       id="BG"
+       transform="scale(0.26458333)" /><path
+       style="fill:#21242b;fill-opacity:1"
+       d="m 90.647926,166.55559 c -3.55237,-0.14418 -10.8821,-0.89043 -13.87562,-1.41268 -5.63961,-0.98389 -9.66725,-2.46449 -10.71792,-3.94003 -0.54051,-0.75908 -0.54188,-0.86434 -0.54188,-41.77642 V 78.411047 l 0.64002,-0.76062 c 2.23129,-2.65174 10.14035,-4.361087 24.26945,-5.245247 6.85526,-0.428984 11.403474,-0.331204 20.069704,0.4315 10.06037,0.88539 17.08105,2.924587 18.44531,5.357547 0.2481,0.44245 0.32349,9.87164 0.33073,41.364773 l 0.009,40.79168 -0.69592,0.82706 c -3.16025,3.75574 -19.79492,6.11406 -37.933244,5.37785 z m -22.65036,-28.26217 c 1.40236,-0.58594 6.31854,-1.37111 11.85624,-1.89358 6.04901,-0.5707 27.615824,-0.66081 33.283704,-0.13906 7.35031,0.67663 12.20228,1.45683 14.35365,2.30807 0.43931,0.17383 0.46302,-1.33934 0.46302,-29.55185 0,-33.383983 0.19558,-30.401783 -2.06894,-31.547343 -6.93465,-3.508067 -27.523894,-5.025297 -43.350284,-3.19451 -7.81263,0.90376 -13.36416,2.40078 -15.10422,4.07298 l -0.59531,0.5721 v 29.887613 c 0,16.43818 0.045,29.88761 0.1,29.88761 0.055,0 0.53296,-0.18092 1.06216,-0.40203 z"
+       id="path1" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-69.24933,-25.475871)"
+       id="text1"
+       style="font-style:italic;font-weight:600;font-size:13.3333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold Italic';text-align:center;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;paint-order:fill markers stroke"><tspan
+         x="519.72968"
+         y="603.34068"
+         id="tspan2"><tspan
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Fira Sans'"
+           id="tspan1">Powered by:</tspan></tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.0331625,-0.6500138)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;letter-spacing:4px;white-space:pre;shape-inside:url(#rect2);fill:#c678dd;fill-opacity:1;fill-rule:evenodd;paint-order:fill markers stroke"><tspan
+         x="303.81945"
+         y="592.90188"
+         id="tspan3">EMACS</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,13.23387,-4.2047055)"
+       id="text2-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect2-7);display:inline;fill:#4fabea;fill-opacity:1;fill-rule:evenodd;paint-order:fill markers stroke"><tspan
+         x="282.82264"
+         y="563.89575"
+         id="tspan4">DOOM</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.06528953,0,0,0.06528953,109.62637,106.65408)"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.3333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect9);fill:#4fabea;fill-opacity:1;fill-rule:evenodd;paint-order:fill markers stroke"
+       x="-405.41968"
+       y="0"><tspan
+         x="-622.20508"
+         y="-230.80491"
+         id="tspan6"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan5">=================     ===============     ===============   ========  ========
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-203.87658"
+         id="tspan8"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan7">\\ . . . . . . .\\   //. . . . . . .\\   //. . . . . . .\\  \\. . .\\// . . //
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-176.94825"
+         id="tspan11"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan10">||. . ._____. . .|| ||. . ._____. . .|| ||. . ._____. . .|| || . . .\/ . . .||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-150.01992"
+         id="tspan13"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan12">|| . .||   ||. . || || . .||   ||. . || || . .||   ||. . || ||. . . . . . . ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-123.09159"
+         id="tspan15"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan14">||. . ||   || . .|| ||. . ||   || . .|| ||. . ||   || . .|| || . | . . . . .||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-96.163263"
+         id="tspan17"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan16">|| . .||   ||. _-|| ||-_ .||   ||. . || || . .||   ||. _-|| ||-_.|\ . . . . ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-69.234933"
+         id="tspan19"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan18">||. . ||   ||-'  || ||  `-||   || . .|| ||. . ||   ||-'  || ||  `|\_ . .|. .||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-42.306607"
+         id="tspan21"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan20">|| . _||   ||    || ||    ||   ||_ . || || . _||   ||    || ||   |\ `-_/| . ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="-15.378282"
+         id="tspan23"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan22">||_-' ||  .|/    || ||    \|.  || `-_|| ||_-' ||  .|/    || ||   | \  / |-_.||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="11.550044"
+         id="tspan25"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan24">||    ||_-'      || ||      `-_||    || ||    ||_-'      || ||   | \  / |  `||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="38.478369"
+         id="tspan27"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan26">||    `'         || ||         `'    || ||    `'         || ||   | \  / |   ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="65.406695"
+         id="tspan29"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan28">||            .===' `===.         .==='.`===.         .===' /==. |  \/  |   ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="92.335021"
+         id="tspan31"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan30">||         .=='   \_|-_ `===. .==='   _|_   `===. .===' _-|/   `==  \/  |   ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="119.26334"
+         id="tspan33"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan32">||      .=='    _-'    `-_  `='    _-'   `-_    `='  _-'   `-_  /|  \/  |   ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="146.19167"
+         id="tspan35"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan34">||   .=='    _-'          '-__\._-'         '-_./__-'         `' |. /|  |   ||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="173.12"
+         id="tspan37"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan36">||.=='    _-'                                                     `' |  /==.||
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="200.04833"
+         id="tspan39"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan38">=='    _-'                         E M A C S                          \/   `==
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="226.97666"
+         id="tspan41"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan40">\   _-'                                                                `-_   /
+</tspan></tspan><tspan
+         x="-622.20508"
+         y="253.90499"
+         id="tspan43"><tspan
+           style="font-weight:normal;font-family:'FantasqueSansM Nerd Font';-inkscape-font-specification:'FantasqueSansM Nerd Font';text-align:start;text-anchor:start"
+           id="tspan42"> `''                                                                      ``'
+</tspan></tspan></text></g></svg>
